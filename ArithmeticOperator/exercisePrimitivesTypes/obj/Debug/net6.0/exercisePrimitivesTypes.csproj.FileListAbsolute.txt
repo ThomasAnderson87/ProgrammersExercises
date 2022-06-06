@@ -1,0 +1,15 @@
+C:\src\exercisePrimitivesTypes\exercisePrimitivesTypes\bin\Debug\net6.0\exercisePrimitivesTypes.exe
+C:\src\exercisePrimitivesTypes\exercisePrimitivesTypes\bin\Debug\net6.0\exercisePrimitivesTypes.deps.json
+C:\src\exercisePrimitivesTypes\exercisePrimitivesTypes\bin\Debug\net6.0\exercisePrimitivesTypes.runtimeconfig.json
+C:\src\exercisePrimitivesTypes\exercisePrimitivesTypes\bin\Debug\net6.0\exercisePrimitivesTypes.dll
+C:\src\exercisePrimitivesTypes\exercisePrimitivesTypes\bin\Debug\net6.0\exercisePrimitivesTypes.pdb
+C:\src\exercisePrimitivesTypes\exercisePrimitivesTypes\obj\Debug\net6.0\exercisePrimitivesTypes.csproj.AssemblyReference.cache
+C:\src\exercisePrimitivesTypes\exercisePrimitivesTypes\obj\Debug\net6.0\exercisePrimitivesTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\src\exercisePrimitivesTypes\exercisePrimitivesTypes\obj\Debug\net6.0\exercisePrimitivesTypes.AssemblyInfoInputs.cache
+C:\src\exercisePrimitivesTypes\exercisePrimitivesTypes\obj\Debug\net6.0\exercisePrimitivesTypes.AssemblyInfo.cs
+C:\src\exercisePrimitivesTypes\exercisePrimitivesTypes\obj\Debug\net6.0\exercisePrimitivesTypes.csproj.CoreCompileInputs.cache
+C:\src\exercisePrimitivesTypes\exercisePrimitivesTypes\obj\Debug\net6.0\exercisePrimitivesTypes.dll
+C:\src\exercisePrimitivesTypes\exercisePrimitivesTypes\obj\Debug\net6.0\refint\exercisePrimitivesTypes.dll
+C:\src\exercisePrimitivesTypes\exercisePrimitivesTypes\obj\Debug\net6.0\exercisePrimitivesTypes.pdb
+C:\src\exercisePrimitivesTypes\exercisePrimitivesTypes\obj\Debug\net6.0\exercisePrimitivesTypes.genruntimeconfig.cache
+C:\src\exercisePrimitivesTypes\exercisePrimitivesTypes\obj\Debug\net6.0\ref\exercisePrimitivesTypes.dll

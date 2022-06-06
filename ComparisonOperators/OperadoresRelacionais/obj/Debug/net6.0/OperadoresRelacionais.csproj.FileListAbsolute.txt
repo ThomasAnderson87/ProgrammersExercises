@@ -1,0 +1,15 @@
+C:\src\Exercises\OperadoresRelacionais\OperadoresRelacionais\bin\Debug\net6.0\OperadoresRelacionais.exe
+C:\src\Exercises\OperadoresRelacionais\OperadoresRelacionais\bin\Debug\net6.0\OperadoresRelacionais.deps.json
+C:\src\Exercises\OperadoresRelacionais\OperadoresRelacionais\bin\Debug\net6.0\OperadoresRelacionais.runtimeconfig.json
+C:\src\Exercises\OperadoresRelacionais\OperadoresRelacionais\bin\Debug\net6.0\OperadoresRelacionais.dll
+C:\src\Exercises\OperadoresRelacionais\OperadoresRelacionais\bin\Debug\net6.0\OperadoresRelacionais.pdb
+C:\src\Exercises\OperadoresRelacionais\OperadoresRelacionais\obj\Debug\net6.0\OperadoresRelacionais.csproj.AssemblyReference.cache
+C:\src\Exercises\OperadoresRelacionais\OperadoresRelacionais\obj\Debug\net6.0\OperadoresRelacionais.GeneratedMSBuildEditorConfig.editorconfig
+C:\src\Exercises\OperadoresRelacionais\OperadoresRelacionais\obj\Debug\net6.0\OperadoresRelacionais.AssemblyInfoInputs.cache
+C:\src\Exercises\OperadoresRelacionais\OperadoresRelacionais\obj\Debug\net6.0\OperadoresRelacionais.AssemblyInfo.cs
+C:\src\Exercises\OperadoresRelacionais\OperadoresRelacionais\obj\Debug\net6.0\OperadoresRelacionais.csproj.CoreCompileInputs.cache
+C:\src\Exercises\OperadoresRelacionais\OperadoresRelacionais\obj\Debug\net6.0\OperadoresRelacionais.dll
+C:\src\Exercises\OperadoresRelacionais\OperadoresRelacionais\obj\Debug\net6.0\refint\OperadoresRelacionais.dll
+C:\src\Exercises\OperadoresRelacionais\OperadoresRelacionais\obj\Debug\net6.0\OperadoresRelacionais.pdb
+C:\src\Exercises\OperadoresRelacionais\OperadoresRelacionais\obj\Debug\net6.0\OperadoresRelacionais.genruntimeconfig.cache
+C:\src\Exercises\OperadoresRelacionais\OperadoresRelacionais\obj\Debug\net6.0\ref\OperadoresRelacionais.dll
